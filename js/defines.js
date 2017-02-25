@@ -1,0 +1,11 @@
+var skillsSet = [["PHP","90%"],
+                 ["HTML","85%"],
+                 ["CSS","80%"],
+                 ["MySql","85%"],
+                 ["Javascript","95%"],
+                 ["jQuery","95%"],
+                 ["React","65%"],
+                 ["Linux","60%"],
+                 ["Android","75%"],
+                 ["Objective C","55%"],
+                 ["Problem Solving","99%"]];

@@ -1,0 +1,123 @@
+.gallery_container {    
+	width: 100%;
+	height: 100%;
+	display: flex;
+}
+
+#gallery {
+	margin: auto;
+	width: 80%;
+	height: 80%;
+}
+
+#gallery img {
+    width: 280px;
+}
+
+#gallery td {
+	text-align: center;
+	padding: 87px;
+	position: relative;
+}
+
+.gallery_item {
+	width: 23%;
+    height: 30%;
+    margin: 5%;
+    float: left;
+    text-align: center;
+}
+.gallery_item img {
+	cursor: pointer;
+	display: none;
+	    width: 85%;
+}
+.closeDesc{
+	position: absolute;
+    right: 0;
+    bottom: 0;
+    font-size: 24px;
+}
+#smallLogo {
+	height: 100%;
+}
+
+#projectDescContainer{
+	display: none;
+}
+
+#description {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+#itemDescriptionHeadline{
+	height: 140px;
+	padding-top: 50px;
+	display: none;
+	
+}
+
+#itemDescriptionContent{
+    margin: 0px 12px;
+	padding-top: 10px;
+   }
+   
+.projectTtls{    
+	text-align: left;
+	font-size: 25px;
+	border-bottom: 1px solid black;
+}
+
+.projectContent {
+    text-align: left;
+	font-size: 18px;
+	margin: 10px 18px;
+}
+
+.tagcont{
+	background: white;
+    padding: 4px;
+    border-radius: 11px;
+}
+
+.galleryContainer {
+	margin: auto;
+    width: 80%;
+    height: 75%;
+}
+
+@media only screen and (max-width: 767px) {
+#itemDescriptionContent{
+	margin:0;
+}
+
+.galleryContainer {
+    width: 100%;
+    height: 70%;
+}
+.gallery_item img {
+    cursor: pointer;
+    display: none;
+    width: 100%;
+    height: 100%;
+}
+	
+.gallery_item {
+    width: 33%;
+    height: 13%;
+    margin: 11% 8%;
+}
+#description {
+    padding: 17% 7%;
+}
+.closeDesc {
+	padding: 20% 7%;
+}
+}

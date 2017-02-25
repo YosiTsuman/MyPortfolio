@@ -1,0 +1,16 @@
+#sliderConteiner {
+	position: absolute;
+	margin:auto;
+	width: 80%;
+	height: 80%;
+	display: none;
+	margin: -20% 0 0 -40%;
+	top:50%;
+	left:50%;
+}
+
+@media only screen and (max-width: 767px) {
+#sliderConteiner {
+    margin: -29% 0 0 -41%;
+}
+}

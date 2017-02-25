@@ -1,0 +1,59 @@
+
+	<table dir='rtl' >
+	<tr>
+	<td colspan='2' >סיכום דוח חיובים</td>
+	</tr><tr><td colspan='2'>לתאריך: 3-4-2016</td></tr>
+	<tr><td></td></tr>
+	<tr>
+	<td colspan='2'><b>דוח שגיאות חיובים</b></td>
+	</tr></table><table border=1 dir=rtl>
+
+	<tr>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' חברה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>שם חברה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>קוד מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>שם מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך תחילת חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך סיום חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>סכום לחיוב (לא כולל מע''מ)</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מספר כרטיס</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מספר שגיאה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>סיבת שגיאה</td></tr></table><br><br><table>
+	<tr>
+	<td colspan='2'><b> דוח חיובים מוצלחים</b></td>
+	</tr></tr></table><table border=1 dir=rtl><tr>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' חברה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>שם חברה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>קוד מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>שם מוצר</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>חבילת מנוי</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>הנחה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>הנחה שירות שנתי</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>הנחה משנה שניה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>כמות</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>סוג מנוי</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מחזור חיוב (חודשים)</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' תשלומים במחזור חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך תחילת חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך סיום חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>תאריך חיוב</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>כמות (חודשים/שנים)</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מחיר לחודש/שנה</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>סכום לחיוב (לא כולל מע''מ)</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>אמצעי תשלום</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>סוג מסמך</td>
+	<td align=center valign=middle style='background-color:#D3D3D3'>מס' חשבונית מס/קבלה</td></tr><tr>
+			<td align=center valign=middle>502</td>
+			<td align=center valign=middle>החברה לדוגמא בע"מ</td>
+			<td align=center valign=middle>5316111</td>
+			<td align=center valign=middle>152</td>
+			<td align=center valign=middle>שעון קרבה TW550 (5316111)</td><td align=center valign=middle>עד 3 עובדים</td><td align=center valign=middle>₪1349</td><td align=center valign=middle>---</td><td align=center valign=middle> ---</td><td align=center valign=middle>1</td><td align=center valign=middle>חודשי</td><td align=center valign=middle>12</td>
+			<td align=center valign=middle>3</td><td align=center valign=middle>01-04-2016</td><td align=center valign=middle>31-03-2017</td><td align=center valign=middle>01-04-2016</td><td align=center valign=middle>1.00</td>
+				<td align=center valign=middle>0.99999999999995</td><td align=center valign=middle>₪ 1.00</td>
+			<td align=center valign=middle>אשראי</td><td align=center valign=middle>חשבונית מס קבלה</td><td align=center valign=middle>18005</td></tr><tr>
+	<td align=center valign=middle><b>סה"כ</b></td>
+	<td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+	<td></td><td></td><td align=center valign=middle><b>₪1.00</b></td><td></td><td></td><td></td></tr></table>
